@@ -1,2 +1,3 @@
-# stalker-bot
-Stalker bot ?
+# Stalker Discord Bot
+
+V0.8
